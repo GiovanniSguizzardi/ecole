@@ -1,5 +1,4 @@
 package br.com.fiap.domain.view;
-
 import br.com.fiap.domain.entity.Aluno;
 import br.com.fiap.domain.entity.Curso;
 import br.com.fiap.domain.entity.Instrutor;

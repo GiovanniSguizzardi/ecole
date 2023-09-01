@@ -1,2 +1,7 @@
-RM:.....   NOME: .......................... TURMA:  ............
-RM:.....   NOME: .......................... TURMA:  ............
+RM:551261
+NOME: Giovanni Sguizzardi Conde
+TURMA: 1TDSA
+
+RM:98060
+NOME: Pedro Baraldi Sá
+TURMA: 1TDSA
